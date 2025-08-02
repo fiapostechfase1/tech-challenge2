@@ -30,15 +30,14 @@ O modelo com melhor desempenho foi a **Regressão Logística**, utilizando como 
 
 ## 🗃️ Estrutura do Projeto
 ├── content/
-│ └── Dados Históricos - Ibovespa_10anos.csv
-├── tech_challenge_fase_2.ipynb
+│   ├── Dados Históricos - Ibovespa_10anos.csv
+│   └── tech_challenge_fase_2.ipynb
 ├── Documento Descritivo e Slides/
-│ └── Modelo-Preditivo-para-o-IBOVESPA.pdf
-  └── Tech_Challenge_-_Fase_2_-_Modelo_Machine_Learning_Preditivo_IBOVESPA.pdf
+│   ├── Modelo-Preditivo-para-o-IBOVESPA.pdf
+│   └── Tech_Challenge_-_Fase_2_-_Modelo_Machine_Learning_Preditivo_IBOVESPA.pdf
 ├── Vídeo de Apresentação/
-│ └── Link do Vídeo.txt
+│   └── Link do Vídeo.txt
 └── README.md
-
 
 ## 📹 Apresentação
 Um vídeo pitch de até 5 minutos acompanha o projeto explicando os principais pontos do desenvolvimento e da solução final.
