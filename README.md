@@ -29,6 +29,7 @@ O modelo com melhor desempenho foi a **Regressão Logística**, utilizando como 
 - ✅ Simples, interpretável e eficiente
 
 ## 🗃️ Estrutura do Projeto
+"""
 ├── content/
 │   ├── Dados Históricos - Ibovespa_10anos.csv
 │   └── tech_challenge_fase_2.ipynb
@@ -38,6 +39,7 @@ O modelo com melhor desempenho foi a **Regressão Logística**, utilizando como 
 ├── Vídeo de Apresentação/
 │   └── Link do Vídeo.txt
 └── README.md
+"""
 
 ## 📹 Apresentação
 Um vídeo pitch de até 5 minutos acompanha o projeto explicando os principais pontos do desenvolvimento e da solução final.
