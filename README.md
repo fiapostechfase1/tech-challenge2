@@ -44,6 +44,8 @@ O modelo com melhor desempenho foi a **Regressão Logística**, utilizando como 
 ## 📹 Apresentação
 Um vídeo pitch de até 5 minutos acompanha o projeto explicando os principais pontos do desenvolvimento e da solução final.
 
+<a>https://youtu.be/EPfGD0Jua3o</a>
+
 ## 🧑‍💻 Tecnologias
 - Python
 - Pandas, NumPy
